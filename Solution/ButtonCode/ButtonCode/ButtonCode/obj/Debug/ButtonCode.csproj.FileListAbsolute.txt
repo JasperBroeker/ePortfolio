@@ -1,0 +1,17 @@
+C:\Users\Jasper\Documents\Projects\JasperBroeker\xamarin-forms-samples.git\ButtonCode\ButtonCode\ButtonCode\bin\Debug\ButtonCode.dll
+C:\Users\Jasper\Documents\Projects\JasperBroeker\xamarin-forms-samples.git\ButtonCode\ButtonCode\ButtonCode\bin\Debug\ButtonCode.pdb
+C:\Users\Jasper\Documents\Projects\JasperBroeker\xamarin-forms-samples.git\ButtonCode\ButtonCode\ButtonCode\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Jasper\Documents\Projects\JasperBroeker\xamarin-forms-samples.git\ButtonCode\ButtonCode\ButtonCode\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Jasper\Documents\Projects\JasperBroeker\xamarin-forms-samples.git\ButtonCode\ButtonCode\ButtonCode\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Jasper\Documents\Projects\JasperBroeker\xamarin-forms-samples.git\ButtonCode\ButtonCode\ButtonCode\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Jasper\Documents\Projects\JasperBroeker\xamarin-forms-samples.git\ButtonCode\ButtonCode\ButtonCode\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Jasper\Documents\Projects\JasperBroeker\xamarin-forms-samples.git\ButtonCode\ButtonCode\ButtonCode\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\Jasper\Documents\Projects\JasperBroeker\xamarin-forms-samples.git\ButtonCode\ButtonCode\ButtonCode\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Jasper\Documents\Projects\JasperBroeker\xamarin-forms-samples.git\ButtonCode\ButtonCode\ButtonCode\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Jasper\Documents\Projects\JasperBroeker\xamarin-forms-samples.git\ButtonCode\ButtonCode\ButtonCode\obj\Debug\ButtonCode.csprojResolveAssemblyReference.cache
+C:\Users\Jasper\Documents\Projects\JasperBroeker\xamarin-forms-samples.git\ButtonCode\ButtonCode\ButtonCode\obj\Debug\ButtonCode.dll
+C:\Users\Jasper\Documents\Projects\JasperBroeker\xamarin-forms-samples.git\ButtonCode\ButtonCode\ButtonCode\obj\Debug\ButtonCode.pdb
+C:\Users\Jasper\Documents\Projects\JasperBroeker\xamarin-forms-samples.git\ButtonCode\ButtonCode\ButtonCode\obj\Debug\ButtonCode.dll.mdb
+C:\Users\Jasper\Documents\Projects\JasperBroeker\xamarin-forms-samples.git\ButtonCode\ButtonCode\ButtonCode\bin\Debug\ButtonCode.dll.mdb
+C:\Users\Jasper\Documents\Projects\JasperBroeker\xamarin-forms-samples.git\ButtonCode\ButtonCode\ButtonCode\obj\Debug\ButtonCode.dll.mdb
+C:\Users\Jasper\Documents\Projects\JasperBroeker\xamarin-forms-samples.git\ButtonCode\ButtonCode\ButtonCode\bin\Debug\ButtonCode.dll.mdb
